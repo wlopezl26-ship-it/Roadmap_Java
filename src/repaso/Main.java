@@ -1,5 +1,7 @@
 package repaso;
 
+import repaso.Enumeraciones.Size;
+
 public class Main {
 
 	public static void main(String[] args) {
